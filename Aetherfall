@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "HmrzeZapM1EygFc4tBJUXwWTzv5Ahy8axLSAadBx51sw",
+  "symbol": "AETH",
+  "name": "Aetherfall",
+  "decimals": 9,
+  "logoURI": "https://github.com/Ashj10001/Aetherfal-PNG/blob/main/Aetherfall.png?raw=true",
+  "tags": ["gaming", "metaverse", "utility"],
+  "extensions": {
+    "website": "https://www.aetherfall-interactive.com",
+    "twitter": "https://x.com/Aetherfall_HQ",
+    "description": "Aetherfall (AETH) is a pioneering force in blockchain-based gaming development, creating a connected ecosystem of immersive, story-driven games built on Solana. Players can earn, trade, and own assets while participating in decentralized governance and staking rewards."
+  }
+}
